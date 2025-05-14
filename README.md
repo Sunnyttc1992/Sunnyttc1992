@@ -1,13 +1,11 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting%20Everyone&fontSize=90)
 
 <a href="https://www.linkedin.com/in/sunnychuenchom/" target="_blank" rel="noopener noreferrer">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/d7ca50d8-e0cb-4e18-8ba7-56dd00df044c)
-" alt="LinkedIn Profile" />
+  <img height="50" src="https://github.com/user-attachments/assets/d7ca50d8-e0cb-4e18-8ba7-56dd00df044c/image.png" alt="LinkedIn Profile" />
 </a>
 
 <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/7d6830e9-a2aa-4aba-826e-e444597dfcd7)
-" alt="Medium Profile" />
+  <img height="50" src="https://github.com/user-attachments/assets/7d6830e9-a2aa-4aba-826e-e444597dfcd7/image.png" alt="Medium Profile" />
 </a>
 
 <!--

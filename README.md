@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">
-  <img height="50" src="https://github.com/Sunnyttc1992/Sunnyttc1992/issues/2#issue-3064490191/>
+  <img height="50" src="https://github.com/user-attachments/assets/addb2144-3f8f-4d0c-8d11-035e7d7552b1"alt="Medium Profile"
 </a>
 
 <!--

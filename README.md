@@ -1,10 +1,8 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting%20Everyone&fontSize=90)
 
-<a href="https://www.linkedin.com/in/sunnychuenchom/">
-  <img height="50" src="https://github.com/user-attachments/assets/675c09de-5995-40c0-a32f-800d26cabee6
-"/>
+<a href="https://www.linkedin.com/in/sunnychuenchom/" target="_blank" rel="noopener noreferrer">
+  <img height="50" src="https://github.com/user-attachments/assets/675c09de-5995-40c0-a32f-800d26cabee6/image.png" alt="LinkedIn Profile"/>
 </a>
-
 <!--
 **Sunnyttc1992/Sunnyttc1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting%20Everyone&fontSize=90)
 
 <a href="https://www.linkedin.com/in/sunnychuenchom/">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/675c09de-5995-40c0-a32f-800d26cabee6)
+  <img height="50" src="https://github.com/user-attachments/assets/675c09de-5995-40c0-a32f-800d26cabee6
 "/>
 </a>
 

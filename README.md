@@ -2,7 +2,7 @@
 
 <div style="background-color: white; padding: 20px; display: flex; gap: 20px; align-items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/sunnychuenchom/" target="_blank" rel="noopener noreferrer">
-    <img height="50" src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a/image.png" alt="LinkedIn Profile" />
+    <img height="50" src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a)" alt="LinkedIn Profile" />
   </a>
 
   <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">

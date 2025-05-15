@@ -34,7 +34,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://github.com/user-attachments/assets/addb2144-3f8f-4d0c-8d11-035e7d7552b1" alt="Medium" />
+    <img height="40" src="https://github.com/user-attachments/assets/93a6554e-42c9-4697-a694-8aa0517d641d" alt="Medium" />
   </a>
 </div>
 

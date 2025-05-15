@@ -1,7 +1,7 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting%20Everyone&fontSize=90)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a/image.png" height="120" alt="Banner" />
+  <img src="https://cdn.vox-cdn.com/thumbor/fdiw1biFCZk4pZSRn1yZ4u9rbEA=/0x0:1500x500/1520x1013/filters:focal(834x151:1074x391)/cdn.vox-cdn.com/uploads/chorus_image/image/71971525/MCL60.0.jpeg" height="120" alt="Banner" />
   
   # 👋 Hi, I'm Sunny Chuenchom
 
@@ -42,8 +42,7 @@
 
 ## 🗂️ Featured Repos
 
-#- [`!(https://github.com/user-attachments/assets/233007c8-4741-48fa-918d-cb247a20e682)
- Predict-Amazon stock by using LSTM`](https://github.com/Sunnyttc1992/Predict-Amazon-price-stock-Using-LSTM)
+#- [`🧦📈Predict-Amazon stock by using LSTM`](https://github.com/Sunnyttc1992/Predict-Amazon-price-stock-Using-LSTM)
 
 #- [`🤖 Bean-classcification`](https://github.com/Sunnyttc1992/Bean_Classification_with_decisiontree_kmean)
 

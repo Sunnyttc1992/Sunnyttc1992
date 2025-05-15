@@ -30,7 +30,7 @@
 
 <div align="center" style="background: white;">
   <a href="https://www.linkedin.com/in/sunnychuenchom/" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a/image.png" alt="LinkedIn" />
+    <img height="40" src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">
@@ -48,4 +48,4 @@
 
 ---
 
-> *“Data is not just numbers, it's the pulse of innovation.”* – Sunny Chuenchom
+> *“Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we’ll augment our intelligence.”* – Ginni Rometty

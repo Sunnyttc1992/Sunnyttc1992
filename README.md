@@ -44,6 +44,7 @@
 
 #- [`![StonksStocksGIF](https://github.com/user-attachments/assets/233007c8-4741-48fa-918d-cb247a20e682)
  Predict-Amazon stock by using LSTM`](https://github.com/Sunnyttc1992/Predict-Amazon-price-stock-Using-LSTM)
+
 #- [`🤖 Bean-classcification`](https://github.com/Sunnyttc1992/Bean_Classification_with_decisiontree_kmean)
 
 ---

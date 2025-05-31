@@ -47,9 +47,14 @@ My projects span from medical chatbots using Retrieval-Augmented Generation (RAG
 
 ## 🗂️ Featured Repos
 
-#- [`🧦📈Predict-Amazon stock by using LSTM`](https://github.com/Sunnyttc1992/Predict-Amazon-price-stock-Using-LSTM)
 
-#- [`🤖 Bean-classcification`](https://github.com/Sunnyttc1992/Bean_Classification_with_decisiontree_kmean)
+#-Lv1 INC
+
+#-LV2 INC
+
+#-LV3 INC
+
+#-LV4 INC
 
 ---
 

@@ -49,7 +49,9 @@ My projects span from medical chatbots using Retrieval-Augmented Generation (RAG
 
 
 #-Lv1 
+
 Performing EDA And Machine learning to predict the demand of retail store.
+👉 [View the full project repository here](https://github.com/Sunnyttc1992/forcasting-retail-stored-demand)
 
 #-LV2 INC
 

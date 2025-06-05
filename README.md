@@ -48,7 +48,8 @@ My projects span from medical chatbots using Retrieval-Augmented Generation (RAG
 ## 🗂️ Featured Repos
 
 
-#-Lv1 INC
+#-Lv1 
+Performing EDA And Machine learning to predict the demand of retail store.
 
 #-LV2 INC
 

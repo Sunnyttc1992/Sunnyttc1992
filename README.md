@@ -54,6 +54,7 @@ Performing EDA And Machine learning to predict the demand of retail store.
 👉 [View the full project repository here](https://github.com/Sunnyttc1992/forcasting-retail-stored-demand)
 
 #-LV2 
+
 Full Stack Machine Learning project(Ingestation + Preprocess + EDA + Feature Engineer + Modeling + Deployment in AWS)
 👉 [View the full project repository here](https://github.com/Sunnyttc1992/End_to_end_insurance_price_predection)
 

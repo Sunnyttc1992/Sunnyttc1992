@@ -27,9 +27,15 @@ My projects span from medical chatbots using Retrieval-Augmented Generation (RAG
 
 ---
 
-## 🧠 Highlight Projects
-Medical Gen AI Chatbot (LLM + RAG + AWS)
-👉 [View the project here ](https://github.com/Sunnyttc1992/Medical-chatbot)
+## 🚀 Highlight Projects
+🔬 Medical Gen AI Chatbot (LLM + RAG + AWS)
+[View the project here ](https://github.com/Sunnyttc1992/Medical-chatbot)
+
+📈 Deep Learning tutorials
+
+[See tutorial heare ](https://github.com/Sunnyttc1992/Deep_learning_tutorial)
+
+
 
 
 

@@ -5,7 +5,9 @@
   
 # 👋 Hi, I'm Sunny Chuenchom
 I'm a data scientist with a background in real-world experience leading digital transformation projects. Currently graduate a Master’s in Applied Data Science at the University of Michigan (Class of 2025).
+
 I specialize in applying AI, machine learning, and generative AI to solve real-world problems—particularly in the healthcare, automotive, and robotics industries.
+
 My projects span from medical chatbots using Retrieval-Augmented Generation (RAG). I enjoy bridging the gap between technical systems and strategic outcomes, bringing a coach's mindset to every project—structured, goal-oriented, and relentlessly curious.
 
 
@@ -32,7 +34,6 @@ My projects span from medical chatbots using Retrieval-Augmented Generation (RAG
 [View the project here ](https://github.com/Sunnyttc1992/Medical-chatbot)
 
 📈 Deep Learning tutorials
-
 [See tutorial heare ](https://github.com/Sunnyttc1992/Deep_learning_tutorial)
 
 

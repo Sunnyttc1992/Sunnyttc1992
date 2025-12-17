@@ -4,7 +4,9 @@
   <img src="https://cdn.vox-cdn.com/thumbor/fdiw1biFCZk4pZSRn1yZ4u9rbEA=/0x0:1500x500/1520x1013/filters:focal(834x151:1074x391)/cdn.vox-cdn.com/uploads/chorus_image/image/71971525/MCL60.0.jpeg" height="120" alt="Banner" />
   
 # 👋 Hi, I'm Sunny Chuenchom
-I'm a data scientist with a background in real-world experience leading digital transformation projects. Currently graduate a Master’s in Applied Data Science at the University of Michigan (Class of 2025), I specialize in applying AI, machine learning, and generative AI to solve real-world problems—particularly in the healthcare, automotive, and robotics industries.My projects span from medical chatbots using Retrieval-Augmented Generation (RAG)  I enjoy bridging the gap between technical systems and strategic outcomes, bringing a coach's mindset to every project—structured, goal-oriented, and relentlessly curious.
+I'm a data scientist with a background in real-world experience leading digital transformation projects. Currently graduate a Master’s in Applied Data Science at the University of Michigan (Class of 2025).
+I specialize in applying AI, machine learning, and generative AI to solve real-world problems—particularly in the healthcare, automotive, and robotics industries.
+My projects span from medical chatbots using Retrieval-Augmented Generation (RAG). I enjoy bridging the gap between technical systems and strategic outcomes, bringing a coach's mindset to every project—structured, goal-oriented, and relentlessly curious.
 
 
 🎓 Master’s in Applied Data Science @ University of Michigan  
@@ -27,7 +29,7 @@ I'm a data scientist with a background in real-world experience leading digital 
 
 ## 🧠 Highlight Projects
 Medical Gen AI Chatbot (LLM + RAG + AWS)
-👉 [View the project now ](https://github.com/Sunnyttc1992/Medical-chatbot)
+👉 [View the project here ](https://github.com/Sunnyttc1992/Medical-chatbot)
 
 
 
@@ -49,6 +51,7 @@ Medical Gen AI Chatbot (LLM + RAG + AWS)
 
 
 #-Lv1 
+
 Performing Data Cleaning on AirBnB Dataset
 👉 [View the full project repository here](https://github.com/Sunnyttc1992/air_bnb
 )

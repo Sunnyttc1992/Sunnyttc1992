@@ -4,17 +4,16 @@
   alt="Sunny Chuenchom | Data Scientist · AI Engineer"
 />
 
-## Building practical intelligence
+## Engineering intelligence that moves business forward
 
-I’m **Sunny Chuenchom**, a data scientist and AI engineer working across
-applied machine learning, generative AI, and data engineering.
+I’m Sunny Chuenchom, a data scientist and AI engineer building systems that turn complex data into clear decisions and practical action.
 
-I build systems that connect technical capabilities with business outcomes,
-with a focus on **healthcare, automotive, and industrial intelligence**.
+My work connects machine learning, generative AI, data engineering, and industrial IoT, with a focus on healthcare, automotive, and intelligent operations. I approach each project with a business objective, a clear architecture, and measurable outcomes.
 
-**Master of Applied Data Science · University of Michigan, Class of 2025**  
-Michigan · Background in digital transformation and data-driven coaching
+I see the next frontier of applied AI in systems that reason over evidence, coordinate workflows, and support action with human oversight. That direction shapes what I build: connected intelligence with traceability, reliability, and purpose.
 
+Master of Applied Data Science · University of Michigan, Class of 2025
+Novi, Michigan · Digital transformation experience
 ---
 
 ## Selected Work

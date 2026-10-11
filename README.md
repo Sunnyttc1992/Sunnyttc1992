@@ -1,10 +1,8 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sunnyttc1992/Sunnyttc1992/main/assets/obsidian-champagne-header.png"
-    width="100%"
-    alt="Sunny Chuenchom | Data Scientist · AI Engineer"
-  />
-</p>
+<img
+  src="https://raw.githubusercontent.com/Sunnyttc1992/Sunnyttc1992/main/obsidian-champagne-header.png"
+  width="100%"
+  alt="Sunny Chuenchom | Data Scientist · AI Engineer"
+/>
 
 ## Building practical intelligence
 

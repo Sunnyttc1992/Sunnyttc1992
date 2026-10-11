@@ -1,84 +1,24 @@
-## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting%20Everyone&fontSize=90)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0B,60:16120A,100:8A6D1A&height=200&section=header&text=Sunny%20Chuenchom&fontColor=E8D49A&fontSize=56&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Agentic%20Systems&descAlignY=66&descSize=17&animation=fadeIn" width="100%" alt="Sunny Chuenchom" /> <a href="https://github.com/Sunnyttc1992"> <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3200&pause=1400&color=C9A227&center=true&vCenter=true&width=640&lines=Retrieval-Augmented+Generation+on+AWS;Multi-agent+systems+for+industry;From+strategy+to+production+ML" alt="Typing intro" /> </a> <br/>
+<a href="https://www.linkedin.com/in/sunnychuenchom/"><img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0M5QTIyNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a> <a href="https://medium.com/@sunnyttc"><img src="https://img.shields.io/badge/Medium-0B0B0B?style=for-the-badge&logo=medium&logoColor=C9A227" alt="Medium" /></a> <a href="https://github.com/Sunnyttc1992?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=github&logoColor=C9A227" alt="Repositories" /></a>
 
-<div align="center">
-  <img src="https://cdn.vox-cdn.com/thumbor/fdiw1biFCZk4pZSRn1yZ4u9rbEA=/0x0:1500x500/1520x1013/filters:focal(834x151:1074x391)/cdn.vox-cdn.com/uploads/chorus_image/image/71971525/MCL60.0.jpeg" height="120" alt="Banner" />
-  
-# 👋 Hi, I'm Sunny Chuenchom
-I'm a data scientist with a background in real-world experience leading digital transformation projects. Currently graduate a Master’s in Applied Data Science at the University of Michigan (Class of 2025).
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF00,50:C9A227,100:FFFFFF00&height=2" width="100%" alt="" />
+◆ About
+I'm a data scientist and AI engineer who spent years leading digital transformation projects before moving into AI. I build machine learning and generative AI systems that solve real problems, especially in healthcare, automotive, and robotics.
 
-I specialize in applying AI, machine learning, and generative AI to solve real-world problems—particularly in the healthcare, automotive, and robotics industries.
+My recent work focuses on retrieval-augmented generation (RAG) and agentic systems on AWS, from data ingestion through to deployed applications. I bring a coach's mindset to every project: structured, goal-oriented, and relentlessly curious.
 
-My projects span from medical chatbots using Retrieval-Augmented Generation (RAG). I enjoy bridging the gap between technical systems and strategic outcomes, bringing a coach's mindset to every project—structured, goal-oriented, and relentlessly curious.
+<table> <tr> <td align="center" width="33%"> <b>Education</b><br/> <sub>Master of Applied Data Science<br/>University of Michigan · 2025</sub> </td> <td align="center" width="33%"> <b>Focus</b><br/> <sub>LLMs, RAG, multi-agent systems,<br/>MLOps on AWS</sub> </td> <td align="center" width="33%"> <b>Background</b><br/> <sub>Engineering and digital<br/>transformation leadership</sub> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF00,50:C9A227,100:FFFFFF00&height=2" width="100%" alt="" />
+◆ Toolkit
+<table> <tr> <td width="24%"><b>Generative AI</b></td> <td> <img src="https://img.shields.io/badge/LangChain-0B0B0B?style=flat-square&logo=langchain&logoColor=C9A227" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-0B0B0B?style=flat-square&logo=langgraph&logoColor=C9A227" alt="LangGraph" /> <img src="https://img.shields.io/badge/Amazon%20Bedrock-0B0B0B?style=flat-square" alt="Amazon Bedrock" /> <img src="https://img.shields.io/badge/Qdrant-0B0B0B?style=flat-square" alt="Qdrant" /> <img src="https://img.shields.io/badge/RAG-0B0B0B?style=flat-square" alt="RAG" /> </td> </tr> <tr> <td><b>Machine learning</b></td> <td> <img src="https://img.shields.io/badge/PyTorch-0B0B0B?style=flat-square&logo=pytorch&logoColor=C9A227" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-0B0B0B?style=flat-square&logo=tensorflow&logoColor=C9A227" alt="TensorFlow" /> <img src="https://img.shields.io/badge/scikit--learn-0B0B0B?style=flat-square&logo=scikitlearn&logoColor=C9A227" alt="scikit-learn" /> <img src="https://img.shields.io/badge/MLflow-0B0B0B?style=flat-square&logo=mlflow&logoColor=C9A227" alt="MLflow" /> </td> </tr> <tr> <td><b>Data</b></td> <td> <img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&logo=python&logoColor=C9A227" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-0B0B0B?style=flat-square&logo=pandas&logoColor=C9A227" alt="Pandas" /> <img src="https://img.shields.io/badge/SQL-0B0B0B?style=flat-square&logo=postgresql&logoColor=C9A227" alt="SQL" /> <img src="https://img.shields.io/badge/Airflow-0B0B0B?style=flat-square&logo=apacheairflow&logoColor=C9A227" alt="Airflow" /> </td> </tr> <tr> <td><b>Cloud and delivery</b></td> <td> <img src="https://img.shields.io/badge/AWS-0B0B0B?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-0B0B0B?style=flat-square&logo=terraform&logoColor=C9A227" alt="Terraform" /> <img src="https://img.shields.io/badge/Docker-0B0B0B?style=flat-square&logo=docker&logoColor=C9A227" alt="Docker" /> <img src="https://img.shields.io/badge/FastAPI-0B0B0B?style=flat-square&logo=fastapi&logoColor=C9A227" alt="FastAPI" /> <img src="https://img.shields.io/badge/Streamlit-0B0B0B?style=flat-square&logo=streamlit&logoColor=C9A227" alt="Streamlit" /> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF00,50:C9A227,100:FFFFFF00&height=2" width="100%" alt="" />
+◆ Signature projects
+<table> <tr> <td width="50%" valign="top"> <h3>Industrial IoT multi-agent platform</h3> <p>Edge-to-cloud telemetry on AWS IoT Core and Kinesis, with predictive maintenance, digital twins, RAG, and human-approved operational agents.</p> <img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/AWS-0B0B0B?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-0B0B0B?style=flat-square" alt="Terraform" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/Agentic-Industrial-IoT-Predictive-Maintenance---Production-Optimization-Platform"><b>View repository →</b></a> </td> <td width="50%" valign="top"> <h3>Scalable RAG assistant</h3> <p>Answers questions over technical handbooks: ingests PDF and Word files, indexes them in Qdrant, reranks passages, and cites its sources.</p> <img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Qdrant-0B0B0B?style=flat-square" alt="Qdrant" /> <img src="https://img.shields.io/badge/RAG-0B0B0B?style=flat-square" alt="RAG" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/Scalable-RAG-With-KGB"><b>View repository →</b></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>Pediatric GenAI assistant</h3> <p>A generative AI assistant for pediatric care, built with an LLM, retrieval-augmented generation, and AWS.</p> <img src="https://img.shields.io/badge/LLM-0B0B0B?style=flat-square" alt="LLM" /> <img src="https://img.shields.io/badge/RAG-0B0B0B?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/AWS-0B0B0B?style=flat-square" alt="AWS" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/Medical-chatbot"><b>View repository →</b></a> </td> <td width="50%" valign="top"> <h3>Agentic meeting platform</h3> <p>A working prototype of an agentic meeting platform.</p> <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square" alt="JavaScript" /> <img src="https://img.shields.io/badge/Agents-0B0B0B?style=flat-square" alt="Agents" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/Agentic-meeting-platform"><b>View repository →</b></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>Polygon RAG</h3> <p>A website-backed knowledge base: crawls a site, chunks and indexes its pages, and serves answers through RAG.</p> <img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/RAG-0B0B0B?style=flat-square" alt="RAG" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/Polygon-RAG"><b>View repository →</b></a> </td> <td width="50%" valign="top"> <h3>Insurance price prediction</h3> <p>An end-to-end ML project, from ingestion and feature engineering to model training and a Streamlit app.</p> <img src="https://img.shields.io/badge/scikit--learn-0B0B0B?style=flat-square" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Streamlit-0B0B0B?style=flat-square" alt="Streamlit" /> <br/><br/> <a href="https://github.com/Sunnyttc1992/End_to_end_insurance_price_predection"><b>View repository →</b></a> </td> </tr> </table> <details> <summary><b>More work</b></summary> <br/>
+Project	What it covers
+Retail demand forecasting	EDA and machine learning to forecast store demand
+Amazon stock price with LSTM	Time-series forecasting with recurrent networks
+Anomaly detection	Deep learning for detecting anomalies
+Deep learning tutorial	Hands-on TensorFlow notebooks
+Airbnb data cleaning	Cleaning and preparing a real-world listings dataset
+</details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF00,50:C9A227,100:FFFFFF00&height=2" width="100%" alt="" /> <div align="center">
+"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence." <br/><sub>— Ginni Rometty</sub>
 
-
-🎓 Master’s in Applied Data Science @ University of Michigan  
-🤖 Passionate about AI, ML, Robotics, and Healthcare Innovation  
-🌍 Bridging insights from Engineering to Data-Driven Strategy  
-</div>
-
----
-
-## 🔧 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/png;base64,INSERT_CUSTOM_ICON&logoColor=white)
-
----
-
-## 🚀 Highlight Projects
-🔬 Medical Gen AI Chatbot (LLM + RAG + AWS)
-[View the project here ](https://github.com/Sunnyttc1992/Medical-chatbot)
-
-📈 Deep Learning tutorials
-[See tutorial heare ](https://github.com/Sunnyttc1992/Deep_learning_tutorial)
-
-
-
-
-
-## 📫 Connect With Me
-
-<div align="center" style="background: white;">
-  <a href="https://www.linkedin.com/in/sunnychuenchom/" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://github.com/user-attachments/assets/434940f3-2e26-47e6-bd19-5a77042de17a" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@sunnyttc" target="_blank" rel="noopener noreferrer">
-    <img height="40" src="https://github.com/user-attachments/assets/93a6554e-42c9-4697-a694-8aa0517d641d" alt="Medium" />
-  </a>
-</div>
-
----
-
-## 🗂️ Featured Repos
-
-
-#-Lv1 
-
-Performing Data Cleaning on AirBnB Dataset
-👉 [View the full project repository here](https://github.com/Sunnyttc1992/air_bnb
-)
-
-Performing EDA And Machine learning to predict the demand of retail store.
-👉 [View the full project repository here](https://github.com/Sunnyttc1992/forcasting-retail-stored-demand)
-
-#-LV2 
-
-Full Stack Machine Learning project(Ingestation + Preprocess + EDA + Feature Engineer + Modeling + Deployment in AWS)
-👉 [View the full project repository here](https://github.com/Sunnyttc1992/End_to_end_insurance_price_predection)
-
-#-LV3 INC
-
-#-LV4
-
-Medical Gen AI Chatbot (LLM + RAG + AWS)
-👉 [View the full project repository here](https://github.com/Sunnyttc1992/Medical-chatbot)
-
-
----
-
-> *“Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we’ll augment our intelligence.”* – Ginni Rometty
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0B,50:C9A227,100:0B0B0B&height=4&section=footer" width="100%" alt="" />

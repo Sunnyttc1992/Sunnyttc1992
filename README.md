@@ -32,7 +32,9 @@ Michigan · Background in digital transformation and data-driven coaching
 
 **Python · SQL · AWS · PyTorch · Docker**
 
-Pandas · scikit-learn · TensorFlow · LangChain · PostgreSQL · Streamlit
+Pandas · scikit-learn · TensorFlow · LangChain · PostgreSQL · Streamlit · Vercel
+
+Tableau · PowerBI
 
 ---
 

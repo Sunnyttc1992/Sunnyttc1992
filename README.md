@@ -13,7 +13,7 @@ I build systems that connect technical capabilities with business outcomes,
 with a focus on **healthcare, automotive, and industrial intelligence**.
 
 **Master of Applied Data Science · University of Michigan, Class of 2025**  
-Novi, Michigan · Background in digital transformation and data-driven coaching
+Michigan · Background in digital transformation and data-driven coaching
 
 ---
 
